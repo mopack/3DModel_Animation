@@ -13,6 +13,9 @@ Feel free to visit my Sketchfab: <https://sketchfab.com/mopackp>.
 ![](Images/SAOSinon.png "SAO Sinon")
 
 
+* A Bow, Rigging as an arrow-shooting weapon. You can watch the animation at BGEGameDesign/BowAndArrow.
+
+![](Images/Bow.png "Bow")
 
 ## Physics Effects & Post Processings
 
@@ -59,26 +62,9 @@ Watch my apache girl on Youtube.
 
 * Muscle Man Idle:
 
-<video width="320" height="240" controls>
-  <source src="Images/MuscleManIdle.avi" type="video/avi">
-</video>
-
-<video id="video1" width="854">
-    <source src="Images/MuscleManIdle.avi" type="video/avi">
-    Your browser does not support HTML5 video.
-</video>
-<br><br>
-<button class="btn" onclick="playPause()">Play/Pause</button>
+[![Apache Girl](https://img.youtube.com/vi/zV2jGP76qbg/0.jpg)](https://www.youtube.com/watch?v=zV2jGP76qbg)
 
 
+* Fire Burning:
 
-```js
-    var myVideo = document.getElementById("video1");
-    function playPause() {
-        if (myVideo.paused)
-            myVideo.play();
-        else
-            myVideo.pause();
-    }
-```
-* Bow Shooting:
+[![Apache Girl](https://img.youtube.com/vi/RKwXF-CrNq4/0.jpg)](https://www.youtube.com/watch?v=RKwXF-CrNq4)
