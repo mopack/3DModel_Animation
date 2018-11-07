@@ -55,7 +55,6 @@ Feel free to visit my Sketchfab: <https://sketchfab.com/mopackp>.
 ## Animation
 
 * Apache Girl:
-Watch my apache girl on Youtube.
 
 [![Apache Girl](https://img.youtube.com/vi/iAz-1SeMezM/0.jpg)](https://www.youtube.com/watch?v=iAz-1SeMezM)
 
