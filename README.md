@@ -52,10 +52,33 @@ Feel free to visit my Sketchfab: <https://sketchfab.com/mopackp>.
 ## Animation
 
 * Apache Girl:
-Watch RollABall Gameplay on Youtube.
+Watch my apache girl on Youtube.
+
+[![Apache Girl](https://img.youtube.com/vi/iAz-1SeMezM/0.jpg)](https://www.youtube.com/watch?v=iAz-1SeMezM)
+
 
 * Muscle Man Idle:
 
-[![RollABall Gameplay](https://img.youtube.com/vi/j9EEmNEiDwI/0.jpg)](https://www.youtube.com/watch?v=j9EEmNEiDwI)
+<video width="320" height="240" controls>
+  <source src="Images/MuscleManIdle.avi" type="video/avi">
+</video>
 
+<video id="video1" width="854">
+    <source src="Images/MuscleManIdle.avi" type="video/avi">
+    Your browser does not support HTML5 video.
+</video>
+<br><br>
+<button class="btn" onclick="playPause()">Play/Pause</button>
+
+
+
+```js
+    var myVideo = document.getElementById("video1");
+    function playPause() {
+        if (myVideo.paused)
+            myVideo.play();
+        else
+            myVideo.pause();
+    }
+```
 * Bow Shooting:
