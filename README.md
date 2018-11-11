@@ -21,7 +21,7 @@ Feel free to visit my Sketchfab: <https://sketchfab.com/mopackp>.
 
 * Physics Effects: I've try to use Particle Systems (Hair & Emitter), Cloth, Fluid, Fire & Smoke, Collision and Wind effects.
 
-* Post Processing: Glassy, Blur, Mixing Shader (Add & Multiply) and Color Ramp are the post processings I used most.
+* Post Processing: Glassy, Blur, Mix Shader (Add & Multiply) and Color Ramp are the post processings I used most.
 
 * Fluid: 
 
